@@ -1,5 +1,5 @@
 h2{
-    color:darkgoldenrod;
+    color:darkorange;
 }
 #blocco-intestazione{
     background-color: darkgray;
@@ -9,4 +9,10 @@ h2{
     margin:0 auto;
     width: 10%;
     height:10%;
+}
+#titolo-centrato{
+    text-align: center;
+}
+hr{
+    background-color: darkorange;
 }
