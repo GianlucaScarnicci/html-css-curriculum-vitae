@@ -3,25 +3,29 @@ h2{
 }
 #blocco-intestazione{
     background-color: darkgray;
-    margin-left: 20%;
-    margin-right: 25%;
-    ;
+    width: 800px;
+    margin:0 auto;
+    text-align: center;
+    border-bottom:2px solid darkorange;
 }
 #immagine-iniziale{
-    display: block;
-    margin:0 auto;
+    
     width: 20%;
     height:20%;
 }
 #titolo-centrato{
     text-align: center;
 }
-hr{
-    background-color: darkorange;
-    margin-left: 20%;
-    margin-right:25%;
-}
+
 
 section{
-    margin-left: 21%;
+    width: 800px;
+    margin:0 auto;
+}
+#linea-divisoria{
+    width: 800px;
+    margin:0 auto;
+    text-align: center;
+    border-top:2px solid darkorange;
+    
 }
