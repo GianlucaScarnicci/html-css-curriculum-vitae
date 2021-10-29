@@ -1,0 +1,12 @@
+h2{
+    color:darkgoldenrod;
+}
+#blocco-intestazione{
+    background-color: darkgray;
+}
+#immagine-iniziale{
+    display: block;
+    margin:0 auto;
+    width: 10%;
+    height:10%;
+}
