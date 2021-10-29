@@ -3,16 +3,25 @@ h2{
 }
 #blocco-intestazione{
     background-color: darkgray;
+    margin-left: 20%;
+    margin-right: 25%;
+    ;
 }
 #immagine-iniziale{
     display: block;
     margin:0 auto;
-    width: 10%;
-    height:10%;
+    width: 20%;
+    height:20%;
 }
 #titolo-centrato{
     text-align: center;
 }
 hr{
     background-color: darkorange;
+    margin-left: 20%;
+    margin-right:25%;
+}
+
+section{
+    margin-left: 21%;
 }
